@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pseudo Sumoku</string>
+    <string name="action_settings">Settings</string>
+    <string name="save">From Save</string>
+    <string name="seed">From Seed</string>
+    <string name="rules">Each row of nine cells and each column of nine cells needs to be filled with all of the digits from 1 to 9. \nA digit can not appear twice in the same row or column.\nThe cells are grouped into tiles of two or three cells, indicated by the colors. Each tile has a value displayed on it that shows the sum of the 2 or 3 cells in that tile.</string>
+    <string name="about">Created by Jacob Fine</string>
+    <string name="strat">Terminology\:  A line is either a row or a column.  A tile is in a line if the entire tile is that line.  A tile crosses a line if only one cell of that tile is in that line.\n1) You often know the set of values that must be in a tile, without yet knowing their positions within a tile. But even though you don\'t yet know exactly where those values go, you immediately deduce many places outside that tile where they can\'t go.\n2) The values in each line adds up to 45. When one tile crosses a line you can then add up the sums of the 3 or 4 tiles in that line and subtract that from 45 to get the cell value.\n3) Many tiles have a fixed set of values even before you learn anything else.  For example a 3-tile with sum of 7 must be 1,2,4 in some order.</string>
+    <string name="load_text">Input save name or seed code to load :</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:title="Clear hints"/>
+        <item android:title="Clear board"/>
+        <item android:title="Save game"/>
+        <item android:title="Load game"/>
+        <item android:title="New game"/>
+        <item android:title="New hard game"/>
+        <item android:title="View saved games"/>
+
+        <item android:title="Delete save game"
+            />
+
+
+    </menu>

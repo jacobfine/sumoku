@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="8dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textview_save_name"
+        android:layout_width="187dp"
+        android:layout_height="wrap_content"
+        android:text="save_name"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textview_save_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="200dp"
+        android:text="save_date"
+        android:textSize="30sp" />
+
+
+</LinearLayout>

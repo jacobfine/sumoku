@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Mark wrong answers" />
+    <item android:title="Show missing answers"/>
+    <item android:title="Run Solver"/>
+    <item android:title="Diagnostic stats"/>
+    <item android:title="Rules"/>
+    <item android:title="Strategy"/>
+    <item android:title="About"/>
+</menu>
